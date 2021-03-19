@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+@import "~react-vis/dist/style";
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
