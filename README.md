@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+A simple React application that consumes and visualizes data from The Atlantic’s COVID-19 tracking API at https://covidtracking.com/data/api.
+
+It makes use of Ant Design and React-vis components to show the total number of U.S. COVID cases over the last 15, 30, and 60 days, as selected by the user, and reported by the API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
